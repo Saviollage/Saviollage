@@ -8,10 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Saviollage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://linkedin.com/in/Saviollage]
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/Saviollage]
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/savio.lage/]
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][https://api.whatsapp.com/send?phone=+5531992652345]
+[<img align="left" alt="Saviollage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Saviollage)
+[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/Saviollage)
+[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/savio.lage/)
+[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5531992652345)
 
 <br />
 
