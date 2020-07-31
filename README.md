@@ -1,10 +1,8 @@
 ### 👋 Hi there, I'm Savio! 👋
 
 ## I'm a Developer!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love play the drums!
+- ⚡ Fun fact: I play the drums!
 
 ### Connect with me:
 
