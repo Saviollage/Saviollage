@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Savio! 👋
 
 ## I'm a Developer!
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I play the drums!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false&layout=compact&hide=Dart)](https://github.com/saviollage)
 
 ### Connect with me:
 
@@ -31,9 +31,6 @@
 
 ---
 <img align="left" alt="Saviollage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false&layout=compact&hide=Dart)](https://github.com/saviollage)
-
 
 [instagram]: https://instagram.com/Saviollage
 [linkedin]: https://linkedin.com/in/Saviollage
