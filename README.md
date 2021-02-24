@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false&layout=compact&hide=Dart)](https://github.com/saviollage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dark&count_private=true&border=false&layout=compact&hide=Dart)](https://github.com/saviollage)
 
 ### Connect with me:
 
@@ -30,7 +30,7 @@
 <br />
 
 ---
-<img align="left" alt="Saviollage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false" />
+<img align="left" alt="Saviollage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saviollage&show_icons=true&theme=dark&count_private=true&border=false" />
 
 [instagram]: https://instagram.com/Saviollage
 [linkedin]: https://linkedin.com/in/Saviollage
