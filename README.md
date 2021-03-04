@@ -1,19 +1,22 @@
-### 👋 Hi there, I'm Savio! 👋
+<head>
+<link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+</head>
+
+### Hi there, I'm Savio! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Developer!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false&hide=Dart&layout=compact)](https://github.com/saviollage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false&layout=compact)](https://github.com/saviollage)
 
 ### Connect with me:
 
-[<img align="left" alt="Saviollage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/Saviollage)
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/Saviollage)
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/savio.lage/)
-[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://api.whatsapp.com/send?phone=+5531992652345)
-
+[<img align="left" alt="Saviollage | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://linkedin.com/in/Saviollage)
+[<img align="left" alt="Saviollage | Instagram" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" />](https://instagram.com/Saviollage)
+[<img align="left" alt="Saviollage | Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail--v1.png" />](mailto:saviohenrique.lage@gmail.com)
 <br />
 
 ### Languages and Tools:
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -30,6 +33,7 @@
 <br />
 
 ---
+
 <img align="left" alt="Saviollage's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false" />
 
 [instagram]: https://instagram.com/Saviollage
