@@ -6,13 +6,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=saviollage&show_icons=true&theme=dracula&count_private=true&border=false)](https://github.com/saviollage)
 
-# 
-
-## 🌎 Find me
-
-### 📩 [Email](mailto:saviohenrique.lage@gmail.com) <br>
-
-### 📸 [Instagram](https://instagram.com/saviollage) <br>
-
-### 💼 [LinkedIn](https://www.linkedin.com/in/saviollage) <br>
-
